@@ -12,7 +12,7 @@ different code projects so many of both types are stored in my github!
 - 💬 ***Ask me about Philosophy:*** Mathematics, Computers, Piano playing ... It is nice to speculate about things not necessarily concrete! 
 - 📫 ***How to reach me:*** [1michael.naguib@gmail.com](mailto:1michael.naguib@gmail.com)
 - ⚡ ***Fun fact:*** I love XC Running 🏃, Bouldering 🧗, and Drone Racing Quadcopters ✈️ 
-- 🎯 ***2021 Goals:*** Survive, Formalize my Neural Network Decomposition Idea, Code a fluid simulation, Climb a V8 Problem, Finish learning the 1st movement of [Moonlight Sonata](https://youtu.be/sbTVZMJ9Z2I), Contribute to Open Source Projects, visualize a [3D Cellular Automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
+- 🎯 ***2022 Goals:*** Become an expert in CUDA and the toolkits, Polish my website, Learn Guitar, & Contribute to Open Source Projects, visualize a [3D Cellular Automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
 
 ### Highlighted Projects:
 - Chaotic IFS Fractal [2D](https://github.com/Michael-Naguib/Chaotic-IFS-Fractal) & [3D](https://github.com/Michael-Naguib/ChaoticIFSFractal3D): Because Fractals are cool!
@@ -22,8 +22,7 @@ different code projects so many of both types are stored in my github!
 
 
 ### Want More ? 
-- I do happen to be looking for a Summer 2021 Internship! My resume is available via [LinkedIn](https://www.linkedin.com/in/michael-naguib1/). Reach out and let's strike up a conversation! Feel free to also email me at [1michael.naguib@gmail.com](mailto:1michael.naguib@gmail.com)
-- What you need to know: I am **teachable**! (My transcript proves that much) I am looking for an internship where I can learn & contribute with my knowledge! 
+- Currently I am working as a software engineer, however my resume is available via [LinkedIn](https://www.linkedin.com/in/michael-naguib1/) if you are curious..  Feel free to also email me at [1michael.naguib@gmail.com](mailto:1michael.naguib@gmail.com)
 - Checkout my website [https://michael-naguib.github.io/](https://michael-naguib.github.io/); I plan on writing Blog Posts & Articles about coding, mathematics and other topics piquing my interest
 
 
