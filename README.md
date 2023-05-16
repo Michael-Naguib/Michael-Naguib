@@ -24,7 +24,7 @@ different code projects so many of both types are stored in my github!
 ### Want More ? 
 - Currently I am working as a software engineer, however my resume is available via [LinkedIn](https://www.linkedin.com/in/michael-naguib1/) if you are curious..  Feel free to also email me at [1michael.naguib@gmail.com](mailto:1michael.naguib@gmail.com)
 - Checkout my website [https://michael-naguib.github.io/](https://michael-naguib.github.io/); I plan on writing Blog Posts & Articles about coding, mathematics and other topics piquing my interest
-
+- *Note* The views and opinions i represent in my personal github profile and repositories are my own and do not represent the views or opinions of the company i work for.
 
 
  [🐛 ←  bug in the code! ](https://xkcd.com/722/)
